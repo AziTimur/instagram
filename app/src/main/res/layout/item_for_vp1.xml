@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/gridImg"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            />
+        <ImageView
+            android:id="@+id/gridImg2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            />
+        <ImageView
+            android:id="@+id/gridImg3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            />
+        <ImageView
+            android:id="@+id/gridImg4"
+            android:layout_width="100dp"
+            android:layout_height="100dp"/>
+
+
+</GridLayout>
